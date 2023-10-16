@@ -1,1 +1,1 @@
-# Jeetcode_problem-solution_js
+# leetcode_problem-solution_js
